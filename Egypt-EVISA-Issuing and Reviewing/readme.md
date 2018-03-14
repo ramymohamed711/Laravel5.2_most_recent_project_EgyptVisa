@@ -1,7 +1,7 @@
 # Egypt EVISA issuing and reviewing 
 
 
-## reviewing comming applicaiotns
+## reviewing comming applications
 
 review the comming applications and migrate it using the Orchestrator procedure 
 
